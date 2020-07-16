@@ -9,4 +9,4 @@
     //
 
 ### links
-[github blog](https://danieltaborda.github.io/)
+[daniel taborda - github blog](https://danieltaborda.github.io/)
